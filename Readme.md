@@ -31,6 +31,6 @@ git lfs track “*.dic”
 
 ### commit push
 ```bash
-git commit -m "ukrainian dic"
-git push origin master
+    git commit -m "ukrainian dic"
+    git push origin master
 ````
